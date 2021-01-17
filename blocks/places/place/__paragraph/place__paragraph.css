@@ -1,10 +1,10 @@
 
 @media screen and (min-width: 1280px){
-    .place_paragraph:first-of-type{ 
+    .place__paragraph:first-of-type{ 
         margin-top:0px;
     }
     
-    .place_paragraph{
+    .place__paragraph{
         width: 484px;
         margin-left: 40px;
         font-family: Inter;
@@ -15,17 +15,17 @@
         color: #FFFFFF;   
          
         }
-        .place_paragraph:last-of-type{
+        .place__paragraph:last-of-type{
             margin-top:26px;
         }
 }
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
-    .place_paragraph:first-of-type{ 
+    .place__paragraph:first-of-type{ 
         margin-top:0px;
     }
     
-    .place_paragraph{
+    .place__paragraph{
         width: 456px;
         margin-left: 32px;
         font-family: Inter;
@@ -36,17 +36,17 @@
         color: #FFFFFF;   
         
         }
-        .place_paragraph:last-of-type{
+        .place__paragraph:last-of-type{
             margin-top:26px;
         }
 }
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
-    .place_paragraph:first-of-type{ 
+    .place__paragraph:first-of-type{ 
         margin-top:0px;
     }
     
-    .place_paragraph{
+    .place__paragraph{
         width: 352px;
         
         font-family: Inter;
@@ -58,17 +58,17 @@
         margin-left: 28px; 
         
         }
-        .place_paragraph:last-of-type{
+        .place__paragraph:last-of-type{
             margin-top:26px;
         }
 }
     
 @media screen and (min-width: 320px) and (max-width: 768px){
-    .place_paragraph:first-of-type{ 
+    .place__paragraph:first-of-type{ 
         margin-top:32px;
     }
     
-    .place_paragraph{
+    .place__paragraph{
         width: 288px;
         
         margin-left: 16px;
@@ -80,7 +80,7 @@
         color: #FFFFFF;   
          
         }
-        .place_paragraph:last-of-type{
+        .place__paragraph:last-of-type{
             margin-top:25px;
         }
 }
