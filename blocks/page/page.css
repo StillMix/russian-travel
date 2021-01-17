@@ -23,7 +23,7 @@
    .page{
    position: relative;
    max-width: 768px;
-   min-height: 6644px;  
+   min-height: 6644px;
    margin:0 auto;
    background: #2A2C2F;
    }
@@ -33,7 +33,7 @@
    .page{
    position: relative;
    max-width: 320px;
-   min-height: 9630px;  
+   min-height: 9630px;
    margin:0 auto;
    background: #2A2C2F;
    }
