@@ -1,9 +1,8 @@
 @media screen and (min-width: 1280px){
     .cover__title{
-        position:relative;
-        z-index: 2;
-        width: 560px;
-        height: 152px;
+           z-index: 2;
+           max-width: 560px;
+           max-height: 152px;
         margin-left: 312px;
         margin-top: 245px;
         font-family: Inter;
@@ -11,7 +10,7 @@
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
-        margin-bottom: 0;
+        padding: 0;
         text-align: center;
         color: #FFFFFF;
         }
@@ -19,10 +18,9 @@
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
        .cover__title{
-        position:relative;
-        z-index: 2;
-        width: 560px;
-        height: 152px;
+              z-index: 2;
+              max-width: 560px;
+              max-height: 152px;
         margin-left: 232px;
         margin-top: 195px;
         font-family: Inter;
@@ -37,10 +35,9 @@
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
        .cover__title{
-        position:relative;
-        z-index: 2;
-        width: 560px;
-        height: 152px;
+              z-index: 2;
+              max-width: 560px;
+              max-height: 152px;
         margin-left: 104px;
         margin-top: 115px;
         font-family: Inter;
@@ -55,10 +52,9 @@
     
 @media screen and (min-width: 320px) and (max-width: 768px){
        .cover__title{
-        position:relative;
-        z-index: 2;
-        width: 288px;
-        height: 70px;
+              z-index: 2;
+              max-width: 288px;
+              max-height: 70px;
         margin-left: 16px;
         margin-top: 33px;
         font-family: Inter;

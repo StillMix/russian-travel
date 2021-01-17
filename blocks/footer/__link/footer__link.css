@@ -2,7 +2,7 @@
     .footer__link{
         margin-right: 18px;
         max-width: 106px;
-        height: 18px;
+        max-height: 18px;
         font-family: Inter;
         font-style: normal;
         font-weight: normal;
@@ -22,7 +22,7 @@
        .footer__link{
         margin-right: 18px;
         max-width: 106px;
-        height: 18px;
+        max-height: 18px;
         font-family: Inter;
         font-style: normal;
         font-weight: normal;
@@ -41,7 +41,7 @@
        .footer__link{
         margin-right: 18px;
         max-width: 106px;
-        height: 18px;
+        max-height: 18px;
         font-family: Inter;
         font-style: normal;
         font-weight: normal;
@@ -61,7 +61,7 @@
        .footer__link{
         margin-top: 32px;
         max-width: 106px;
-        height: 18px;
+        max-height: 18px;
         font-family: Inter;
         font-style: normal;
         font-weight: normal;

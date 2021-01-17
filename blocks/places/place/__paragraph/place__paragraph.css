@@ -5,7 +5,7 @@
     }
     
     .place__paragraph{
-        width: 484px;
+        max-width: 484px;
         margin-left: 40px;
         font-family: Inter;
         font-style: normal;
@@ -26,7 +26,7 @@
     }
     
     .place__paragraph{
-        width: 456px;
+        max-width: 456px;
         margin-left: 32px;
         font-family: Inter;
         font-style: normal;
@@ -47,7 +47,7 @@
     }
     
     .place__paragraph{
-        width: 352px;
+        max-width: 352px;
         
         font-family: Inter;
         font-style: normal;
@@ -69,7 +69,7 @@
     }
     
     .place__paragraph{
-        width: 288px;
+        max-width: 288px;
         
         margin-left: 16px;
         font-family: Inter;
