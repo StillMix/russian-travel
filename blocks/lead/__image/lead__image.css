@@ -3,8 +3,8 @@
         width: 984px;
         height: 615px;
         margin-left: 0;
-        margin-top: 64px;  
-        z-index: 1;  
+        margin-top: 64px;
+        z-index: 1;
         background-size: cover;
        background-image: url(../../../images/lead-polka.jpg);         
         }
@@ -16,7 +16,7 @@
         height: 580px;
         margin-left: 0px;
         margin-top: 56px;
-        z-index: 1;   
+        z-index: 1;
         background-size: cover;
         background-image: url(../../../images/lead-polka.jpg);  
        }
@@ -27,8 +27,8 @@
         width: 768px;
         height: 480px;
         margin-left: 0px;
-        margin-top: 56px;  
-        z-index: 1;    
+        margin-top: 56px;
+        z-index: 1;
         background-size: cover;
         background-image: url(../../../images/lead-polka.jpg); 
        }

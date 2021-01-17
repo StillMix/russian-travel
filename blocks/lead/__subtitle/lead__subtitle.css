@@ -3,13 +3,13 @@
        width: 640px;
        height: 72px;
        margin-left: 172px;
-       margin-top: 32px;      
+       margin-top: 32px;
        font-family: Inter;
        font-style: normal;
        font-weight: normal;
        font-size: 30px;
        line-height: 36px;
-       text-align: center;     
+       text-align: center;
        color: #FFFFFF;
        }
 }
@@ -20,7 +20,7 @@
               width: 640px;
               height: 72px;
               margin-left: 144px;
-              margin-top: 32px;             
+              margin-top: 32px;
               font-family: Inter;
               font-style: normal;
               font-weight: normal;
@@ -37,12 +37,12 @@
               width: 640px;
               height: 72px;
               margin-left: 64px;
-              margin-top: 32px;  
+              margin-top: 32px;
               font-family: Inter;
               font-style: normal;
               font-weight: normal;
               font-size: 30px;
-              line-height: 36px;            
+              line-height: 36px;
               text-align: center;
               color: #FFFFFF;   
        }
@@ -53,13 +53,13 @@
               width: 288px;
               height: 40px;
               margin-left: 18px;
-              margin-top: 16px;             
+              margin-top: 16px;
               font-family: Inter;
               font-style: normal;
               font-weight: normal;
               font-size: 16px;
-              line-height: 20px;          
-              text-align: center;           
+              line-height: 20px;
+              text-align: center;
               color: #FFFFFF;
        }
 }
