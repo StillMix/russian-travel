@@ -1,12 +1,13 @@
-.header__lang-link_active{
+.header_lang-link_active{
         text-decoration-line: underline;
         max-width: 30px;
         max-height: 28px;
         margin-top: 46px;
+        color: #FFFFFF;
 }
 
 @media screen and (min-width: 1280px){
-        .header__lang-link_active{
+        .header_lang-link_active{
             margin-left: 931px;
             font-family: "Inter", "Arial", sans-serif;
             font-style: normal;
@@ -14,13 +15,12 @@
             font-size: 24px;
             line-height: 28px;
             text-align: right;
-            color: #FFFFFF;
             }
 }
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
 
-       .header__lang-link_active{
+       .header_lang-link_active{
         margin-left: 675px;
         font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
@@ -28,14 +28,13 @@
         font-size: 24px;
         line-height: 28px;
         text-align: right;
-        color: #FFFFFF;
         }
 
 }
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
 
-       .header__lang-link_active{   
+       .header_lang-link_active{   
         margin-left: 467px;
         font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
@@ -43,14 +42,13 @@
         font-size: 24px;
         line-height: 28px;
         text-align: right;
-        color: #FFFFFF;
         }
 
 }
     
 @media screen and (min-width: 320px) and (max-width: 768px){
 
-       .header__lang-link_active{
+       .header_lang-link_active{
         margin-left: 84px;
         max-width: 22px;
         max-height: 20px;
@@ -61,7 +59,6 @@
         font-size: 18px;
         line-height: 20px;
         text-align: right;
-        color: #FFFFFF;
         }
 
 }
