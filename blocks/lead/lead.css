@@ -1,39 +1,33 @@
+.lead{
+       margin-top: 48px;
+       padding: 0;
+}
+
 @media screen and (min-width: 1280px){
     .lead{
        max-width: 984px;
-       max-height: 1005px;
-        margin-left: 120px;
+        margin-left: 148px;
         margin-top: 56px;
-        padding: 0;
         }
 }
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
        .lead{
               max-width: 928px;
-              max-height: 962px;
-        margin-left: 48px;
-        margin-top: 48px;
-        padding: 0;  
+        margin-left: 48px; 
        }
 }
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
        .lead{
               max-width: 768px;
-              max-height: 862px;
-        margin-left: 0px;
-        margin-top: 48px;
-        padding: 0;      
+        margin-left: 0px;     
        }
 }
     
 @media screen and (min-width: 320px) and (max-width: 768px){
        .lead{
               max-width: 320px;
-              max-height: 406px;
         margin-left: 0px;
-        margin-top: 48px;
-        padding: 0;
        }
 }

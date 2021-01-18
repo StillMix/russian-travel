@@ -1,68 +1,70 @@
+.cover__title{
+       text-align: center;
+       color: #FFFFFF;
+       padding: 0;
+       z-index: 2;
+}
+
 @media screen and (min-width: 1280px){
     .cover__title{
-           z-index: 2;
-           max-width: 560px;
-           max-height: 152px;
+           
+           max-width: 559px;
+           
         margin-left: 312px;
         margin-top: 245px;
-        font-family: Inter;
+        font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
-        padding: 0;
-        text-align: center;
-        color: #FFFFFF;
+
+
         }
 }
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
        .cover__title{
-              z-index: 2;
-              max-width: 560px;
-              max-height: 152px;
+              
+              max-width: 559px;
+              
         margin-left: 232px;
         margin-top: 195px;
-        font-family: Inter;
+        font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
-        text-align: center;
-        color: #FFFFFF;
+
        }
 }
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
        .cover__title{
-              z-index: 2;
-              max-width: 560px;
-              max-height: 152px;
+             
+              max-width: 559px;
+              
         margin-left: 104px;
         margin-top: 115px;
-        font-family: Inter;
+        font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
-        text-align: center;
-        color: #FFFFFF;
+
        }
 }
     
 @media screen and (min-width: 320px) and (max-width: 768px){
        .cover__title{
-              z-index: 2;
-              max-width: 288px;
-              max-height: 70px;
+              
+              max-width: 287px;      
         margin-left: 16px;
         margin-top: 33px;
-        font-family: Inter;
+        font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
         font-weight: 900;
         font-size: 32px;
         line-height: 35px;
-        text-align: center;
-        color: #FFFFFF;
+
        }
 }

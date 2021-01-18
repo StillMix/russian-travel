@@ -1,11 +1,10 @@
+.footer{
+       display: flex;  
+}
+
 @media screen and (min-width: 1280px){
-    .footer{
-
-        
-        display: flex;
-
+    .footer{ 
         max-width: 1184px;
-        max-height: 18px;
         margin-left: 48px;
         margin-top: 92px;
         }
@@ -13,11 +12,7 @@
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
        .footer{
-
-        display: flex;
-
         max-width: 928px;
-        max-height: 18px;
         margin-left: 48px;
         margin-top: 92px;
        }
@@ -25,11 +20,7 @@
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
        .footer{
-
-        display: flex;
-
         max-width: 720px;
-        max-height: 18px;
         margin-left: 24px;
         margin-top: 88px;
        }
@@ -37,10 +28,8 @@
     
 @media screen and (min-width: 320px) and (max-width: 768px){
        .footer{
-        display: flex;
         flex-direction: column;
         max-width: 186px;
-        max-height: 310px;
         margin-left: 16px;
         margin-top: 64px;
        }

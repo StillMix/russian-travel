@@ -1,53 +1,43 @@
+.cover__overlay{
+    position: absolute;
+    z-index: 1;
+}
+
+.cover__overlay:hover{
+    opacity: 0.8;
+}
+
 @media screen and (min-width: 1280px){
     .cover__overlay{
-        
-       position: absolute;
-       z-index: 1;
+
         width: 1184px;
         height: 740px;
         background: #2A2C2F;
         opacity: 0.3;
         }
-        .cover__overlay:hover{
-            opacity: 0.8;
-        }
 }
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
        .cover__overlay{
-        position: absolute;
-        z-index: 1;
-
         width: 1024px;
         height: 640px;
         background: #2A2C2F;
         opacity: 0.3;
        }
-       .cover__overlay:hover{
-        opacity: 0.8;
-    }
 }
     
 @media screen and (min-width: 768px) and (max-width: 1024px){
        .cover__overlay{
-        position: absolute;
-        z-index: 1;
-
         width: 768px;
         height: 480px;
         background: #2A2C2F;
         opacity: 0.3;
        }
-       .cover__overlay:hover{
-        opacity: 0.8;
-    }
+
 }
     
 @media screen and (min-width: 320px) and (max-width: 768px){
        .cover__overlay{
-        position: absolute;
-        z-index: 1;
-
         width: 320px;
         height: 200px;
         background: #2A2C2F;
