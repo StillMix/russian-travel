@@ -1,4 +1,4 @@
-.header_lang-link_active{
+.header__active-link{
         text-decoration-line: underline;
         max-width: 30px;
         max-height: 28px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (min-width: 1280px){
-        .header_lang-link_active{
+        .header__active-link{
             margin-left: 931px;
             font-family: "Inter", "Arial", sans-serif;
             font-style: normal;
@@ -20,7 +20,7 @@
     
 @media screen and (min-width: 1024px) and (max-width: 1280px){
 
-       .header_lang-link_active{
+       .header__active-link{
         margin-left: 675px;
         font-family: "Inter", "Arial", sans-serif;
         font-style: normal;
@@ -48,7 +48,7 @@
     
 @media screen and (min-width: 320px) and (max-width: 768px){
 
-       .header_lang-link_active{
+       .header__active-link{
         margin-left: 84px;
         max-width: 22px;
         max-height: 20px;
