@@ -1,58 +1,39 @@
-@media screen and (min-width: 1280px){
-    .footer__copyright{
-    margin-left: 618px;
-    margin-top:2px;
-      min-width: 50px;
-      font-family: "Inter", "Arial", sans-serif;
+.footer__copyright{
+       margin-top:2px;
+       min-width: 50px;
+       font-family: "Inter", "Arial", sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 16px;
-color: #FFFFFF;
+color: #FFFFFF;   
+}
+
+@media screen and (min-width: 1280px){
+    .footer__copyright{
+    margin-left: 618px;
 
         }
 }
     
-@media screen and (min-width: 1024px) and (max-width: 1280px){
+@media screen and (min-width: 1024px) and (max-width: 1279px){
        .footer__copyright{
         margin-left: 346px;
-        margin-top:2px;
-        min-width: 50px;
-        font-family: "Inter", "Arial", sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 16px;
-color: #FFFFFF;
 
        }
 }
     
-@media screen and (min-width: 768px) and (max-width: 1024px){
+@media screen and (min-width: 768px) and (max-width: 1023px){
        .footer__copyright{
         margin-left: 138px;
-        margin-top:2px;
-        min-width: 50px;
-        font-family: "Inter", "Arial", sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 16px;
-color: #FFFFFF;
        }
 }
     
-@media screen and (min-width: 320px) and (max-width: 768px){
+@media screen and (min-width: 320px) and (max-width: 767px){
        .footer__copyright{
               max-width: 186px;
         margin-left: 0px;
         margin-top:48px;
-        min-width: 50px;
-        font-family: "Inter", "Arial", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
         line-height: 14px;
-        color: #FFFFFF;
        }
 }

@@ -28,6 +28,7 @@ margin-top: 0;
     
 @media screen and (min-width: 320px) and (max-width: 767px){
        .place__header{
+              margin-left: 16px;
               flex-direction: column;
               max-width: 320px;
        }

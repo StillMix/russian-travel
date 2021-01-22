@@ -1,78 +1,29 @@
 .header__lang-link{ 
         max-height: 28px;
-        
+        font-family: "Inter", "Arial", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        margin-top: 18px;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: right;
+        color: #FFFFFF;
+        margin-left: 18px;
+        max-width: 29px;
+        text-decoration-line:none;
 }
 
 .header__lang-link:hover{
  opacity: 0.8;       
 }
-
-@media screen and (min-width: 1280px){
-        .header__lang-link{   
-            margin-top: 46px;
-            font-family: "Inter", "Arial", sans-serif;
-            font-style: normal;
-            font-weight: normal;
-            font-size: 24px;
-            line-height: 28px;
-            text-align: right;
-            color: #FFFFFF;
-            text-decoration-line:none;
-            max-width: 29px;
-            margin-left: 18px;
-            
-            }
-
-}
     
-@media screen and (min-width: 1024px) and (max-width: 1280px){
-
-       .header__lang-link{
-        margin-top: 46px;
-        font-family: "Inter", "Arial", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 24px;
-        line-height: 28px;
-        text-align: right;
-        color: #FFFFFF;
-        margin-left: 18px;
-        max-width: 29px;
-        text-decoration-line:none;
-        }
-
-}
-    
-@media screen and (min-width: 768px) and (max-width: 1024px){
-       .header__lang-link{      
-        margin-top: 46px;
-        font-family: "Inter", "Arial", sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 24px;
-        line-height: 28px;
-        text-align: right;
-        color: #FFFFFF;
-        margin-left: 18px;
-        max-width: 29px;
-        text-decoration-line:none;
-        }
-}
-    
-@media screen and (min-width: 320px) and (max-width: 768px){
+@media screen and (min-width: 320px) and (max-width: 767px){
        .header__lang-link{
         max-height: 20px;
-        margin-top: 30px;
-        font-family: "Inter", "Arial", sans-serif;
-        font-style: normal;
-        font-weight: normal;
+        margin-top: 14px;
         font-size: 18px;
         line-height: 20px;
-        text-align: right;
-        color: #FFFFFF;
-        margin-left: 18px;
         max-width: 22px;
-        text-decoration-line:none;
         }
 
 }
